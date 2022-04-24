@@ -6,4 +6,7 @@ def time():
 
 
 if __name__ == '__main__':
+    """
+    打印时间
+    """
     print(time())
