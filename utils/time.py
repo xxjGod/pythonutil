@@ -5,6 +5,10 @@ def time():
     return datetime.datetime.now()
 
 
+def nb():
+    print('nb')
+
+
 if __name__ == '__main__':
     """
     打印时间
